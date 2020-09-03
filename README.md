@@ -1187,7 +1187,7 @@ brew install Caskroom/cask/oclint
 gem install xcpretty
 
 #安装pods
-sudo gem install cocoa pods
+sudo gem install cocoapods
 ```
 
 ### 构建iOS项目配置文件内容
